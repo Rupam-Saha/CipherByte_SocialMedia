@@ -1,0 +1,101 @@
+.abc{
+    height:100%;
+    width:100%;
+    background-color: aqua;
+}
+.nav{
+    height:40px;
+    width:100%;
+    border:0.01px solid aquamarine;
+    background-color: aquamarine;
+    position:absolute;
+    top:0px;
+    left:0px;
+    display: flex;
+    align-items: center;
+    color:black;
+}
+#head{
+    margin-left: 60px;
+}
+.list{
+    display: flex;
+}
+.list p{
+    margin-left: 50px;
+    cursor: pointer;
+}
+#p1{
+    margin-left: 450px;
+}
+.list p:hover{
+    text-decoration: underline;
+}
+#pc{
+    height:40px;
+    width:40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+#x2{
+    margin-left: 70px;
+}
+.hea{
+    display: flex;
+    align-items: center;
+}
+.post1{
+    position: relative;
+    top:15px;
+}
+.rupam1{
+    height:350px;
+    width:280px;
+    border:1px solid white;
+    background-color: aquamarine;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#pics{
+    height:160px;
+    width:160px;
+}
+.icon1{
+    position: relative;
+    left:10px;
+}
+#like{
+    position: relative;
+    left:13px;
+}
+#icon2{
+    position: relative;
+    left:25px;    
+}
+#icon3{
+    position: relative;
+    left:38px;
+}
+#comment{
+    position: relative;
+    left:28px;
+}
+#share{
+    position: relative;
+    left:41px;
+}
+#pic{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: relative;
+    top:5px;
+}
+#abc{
+    position: relative;
+    top:-8px;
+    left:5px;
+}

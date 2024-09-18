@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.msgbox input{
+    height:250px;
+    width:500px;
+    background-color: white;
+    border:1px solid white;
+}

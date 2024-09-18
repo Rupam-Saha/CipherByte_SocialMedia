@@ -1,0 +1,57 @@
+body{
+    color:black;
+    background-color: aqua;
+}
+.data{
+    display: flex;
+}
+.image{
+    border:1px solid white;
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    position: absolute;
+    top:100px;
+    left:250px;
+}
+#y1{
+    height:300px;
+    width:300px;
+    border-radius:50%;
+}
+#z{
+    position: relative;
+    left:95px; 
+    background-color:aquamarine;
+}
+#xax{
+    height: 300px;
+    width:355px;
+}
+#xbx{
+    position: relative;
+    top:200px;
+    height: 1000px;
+}
+#xcx{
+    height: 300px;
+    position:relative;
+    top:130px;
+    left:80px;
+
+}
+#del{
+    position: relative;
+    left:55px;
+}
+#delete{
+    position: relative;
+    left:58px;
+}
+#here{
+    height:40px;
+    width:70px;
+    border: 1px solid white;
+    background-color: wheat;
+}
+

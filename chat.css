@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.messagebox{
+    height:max-content;
+    width:400px;
+    border: 1px solid white;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.abcd{
+    display: flex;
+}
+.sent{
+    display: flex;
+}
+.sent input{
+    height:20px;
+}
+.sent button{
+    margin-top: 0px;
+    margin-left: 20px;
+}

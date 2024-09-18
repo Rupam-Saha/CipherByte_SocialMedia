@@ -1,0 +1,59 @@
+body{
+    background-color: aqua;
+    color:beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#picture{
+    height:200px;
+    width:430px;
+    margin-top: 60px;
+}
+#picture:hover{
+    transform: scale(1.2,1.2);
+}
+.rupam{
+    display: flex;
+}
+.register{
+    height:500px;
+    width:300px;
+    border:1px solid white;
+    border-radius: 10px;
+    background-color: aquamarine;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:black;
+}
+.profilepic p{
+    position: relative;
+    left:3px;
+}
+.profilepic input{
+    width:180px;
+    position: relative;
+    left:3px;    
+}
+input{
+    background-color: white;
+    color:black;
+}
+.sayani button{
+    background-color:white ;
+    color:black;
+    margin-top: 35px;
+    height:30px;
+}
+#ab{
+    position: relative;
+    top:-8px;
+}
+.text p{
+    margin-top: 40px;
+}
+#login{
+    cursor: pointer;
+}

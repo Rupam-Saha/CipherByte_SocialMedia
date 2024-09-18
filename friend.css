@@ -1,0 +1,30 @@
+table{
+    text-align: center;
+}
+.cd{
+    position: relative;
+    top:-5px;
+    left:5px;
+    width:160px;
+}
+.ico{
+    position: relative;
+    top:-7px;
+    left:-4px;
+}
+.opt{
+    position: relative;
+    top:20px;
+    display: flex;
+    justify-content: center;
+}
+.opt p{
+    margin-bottom: 30px;
+    margin-right: 35px;
+    margin-left:10px;
+    cursor: pointer;
+}
+p:hover{
+    transform: scale(1.1,1.1);
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+#i1{
+    width:190px;
+}
+.info{
+    height: 200px;
+    width:250px;
+    border: 1px solid white;
+    background-color:aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.data1{
+    position: relative;
+    top:40px;
+    left:30px;
+}
